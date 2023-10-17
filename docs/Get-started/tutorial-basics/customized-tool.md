@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # Customization Tool
 
-Customize the editor's UI and behavior to match your application's requirements.
+Tailor the editor's user interface and actions to the needs of your application.
 
 ## Customization Toolbar
-You can add/ remove tool from the toolbar 
+The toolbar allows you to add and remove tools.
 
 ### Default items in toolbar
 - bold
