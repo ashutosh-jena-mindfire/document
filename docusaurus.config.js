@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Canvas Editor',
+  title: 'Document Editor',
   tagline: 'Create and collaborate on documents with ease',
   favicon: 'img/favicon.ico',
 
@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Canvas Editor',
+        title: 'Document Editor',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -114,7 +114,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Canvas Editor, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} React Document Editor, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

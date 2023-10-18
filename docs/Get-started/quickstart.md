@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Quick Start
 
-Let's discover **Canvas Editor in less than 5 minutes**.
+Let's discover **Document Editor in less than 5 minutes**.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ npm install react-canvas-editor
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Canvas Editor.
+The command also installs all necessary dependencies you need to run Document Editor.
 
 ## Getting Started
 
