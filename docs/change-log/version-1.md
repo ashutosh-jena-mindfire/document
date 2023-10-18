@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Changelog
+# Change log
 
 ## Version 1
 - Added **Bold** feature for text formatting.
