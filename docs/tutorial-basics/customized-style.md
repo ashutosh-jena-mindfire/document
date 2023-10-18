@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# How to Customize Style
+# How to customize style
 
 Customize the editor's UI style to match your application's requirements.
 
-## Customize Toolbar Style
+## Customize toolbar style
 ```javascript
 const toolbarClass: any = {
   container: {
@@ -23,7 +23,9 @@ return (
     />)
 
 ```
-## Customize Toolbar components Style
+
+![Customize toolbar style](../../static/img/customize-toolbar-style.png)
+## Customize toolbar components style
 
 ```javascript
 const toolbarClass: any = {
@@ -49,8 +51,8 @@ return (
         toolbarClass={toolbarClass} 
     />)
 ```
-
-## Customize Editor Page
+![Customize toolbar components style](../../static/img/customize-toolbar-components-style.png)
+## Customize editor page
 ```javascript
 const canvasClass = {
   editorMain: {
@@ -64,3 +66,4 @@ return (
         canvasClass={canvasClass} 
     />)
 ```
+![Customize editor page](../../static/img/customize-editor-page.png)

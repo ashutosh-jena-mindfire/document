@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# How to Customize toolbar
+# How to customize toolbar
 
 Tailor the editor's user interface and actions to the needs of your application.
 
-## Customize Toolbar
+## Customize toolbar
 The toolbar allows you to add and remove tools.
 
 ### Default items in toolbar

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How to use DOM Events
+# How to use DOM events
 
 ## Get value from page
 
@@ -23,7 +23,7 @@ return (
     )
 }
 ```
-
+![Get value from page](../../static/img/onChange.png)
 ## Get select text from page
 
 **onSelect**: The onchange event occurs when the value of an page is selected.
@@ -42,6 +42,7 @@ const handleSelectedText = (text) => {
     )
 }
 ```
+![Get select text from page](../../static/img/onSelect.png)
 ## Set page value
 **value**: The value attribute on an tag sets the value of the page.
 ```javascript
@@ -53,3 +54,5 @@ export const test = () =>{
     )
 }
 ```
+
+![value](../../static/img/setValue.png)
